@@ -1,0 +1,4 @@
+Amazon|email@gmail.com|123qwe
+Flipkart|email@gmail.com|qwerty
+Amazon|email@gmail.com|Shail123
+Ebay|email@gmail.com|helloji
